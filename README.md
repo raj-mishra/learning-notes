@@ -1,48 +1,31 @@
 # My Learning Notes
 
-This repository contains my public notes from courses, tutorials, and topics I study.
+Public notes from courses, tutorials, and topics I study — organized for revision and “learn in public.”
 
 ## Contents
 
-- `notes/` — notes from courses, tutorials, and learning resources
-- `projects.md` — a list of projects I build, with short summaries and links to their separate repositories
+| Path | Description |
+|------|-------------|
+| [`notes/`](./notes/) | Course and topic notes (markdown) |
+| [`projects.md`](./projects.md) | Short summaries and links to project repos |
 
-## About
+## Notes index
 
-I created this repo to keep my learning in one place and make it easy to revisit later.
+| File | Topic |
+|------|--------|
+| [ai-for-everyone.md](./notes/ai-for-everyone.md) | [AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/) — Andrew Ng / DeepLearning.AI |
+| [learnbay-gen-ai-agentic-ai.md](./notes/learnbay-gen-ai-agentic-ai.md) | Learnbay — Gen AI & Agentic AI (curriculum outline) |
+| [devops-on-aws-and-project-management.md](./notes/devops-on-aws-and-project-management.md) | [DevOps and Project Management on AWS](https://www.coursera.org/learn/devops-and-project-management-aws/) — Coursera |
 
-It includes:
-- course notes
-- key concepts and takeaways
-- examples and code snippets
-- useful references
-- lessons connected to projects
-
-## Notes
-
-All notes are stored in the [`notes/`](./notes) folder.
-
-These may include:
-- course summaries
-- module-wise notes
-- important concepts
-- examples
-- references for revision
+Notes may include module summaries, key concepts, examples, code snippets, and references for revision.
 
 ## Projects
 
-Projects are maintained in separate repositories.
-
-A short summary of each project, along with its GitHub link, is listed in [`projects.md`](./projects.md).
+Hands-on work lives in **separate repositories**. Summaries and links are in [`projects.md`](./projects.md).
 
 ## Purpose
 
-The goal of this repo is to:
-- learn in public
-- keep notes organized
-- make revision easier
-- build a searchable knowledge base over time
-
----
-
-A simple public notebook for learning notes and project learnings.
+- Learn in public
+- Keep notes in one searchable place
+- Make revision faster
+- Connect coursework to real projects over time
